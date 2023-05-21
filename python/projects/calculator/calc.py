@@ -1,7 +1,7 @@
-from addition import add
+from operators.addition import add
+from operators.subtraction import sub
+from operators.multiplication import mult
 from run import get_input_data
-from subtraction import sub
-from multiplication import mult
 
 while True:
     try:
@@ -14,10 +14,6 @@ while True:
             print('Результат операции:', mult(num, num2))
         else:
             print('Ошибка! Некорректный оператор.')
-        
+
     except ValueError:
         print('Ошибка, введите правильное значение')
-
-
-
-
