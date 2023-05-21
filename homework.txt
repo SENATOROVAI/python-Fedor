@@ -1,17 +1,17 @@
 051923
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
-2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people               done
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI                    continue
+2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme  continue
 
 algo:
 1)скачать
 https://t.me/RuslanSenatorov/429
 дочитать до 70 странице, мне важно понимать что из математических символов ты не понимаешь
-2)https://codeforces.com/problemset/problem/71/A?locale=en
+2)https://codeforces.com/problemset/problem/71/A?locale=en                       done
 решение:\algorithms\hw1-cf.py
-3)решить всё до 5 задачи https://projecteuler.net/archives
+3)решить всё до 5 задачи https://projecteuler.net/archives                       continue                        
 решение:\algorithms\hw1-euler.py
 
 дискретка (математика для прогеров):
@@ -21,9 +21,9 @@ https://t.me/RuslanSenatorov/429
 
 python:
 1)https://peps.python.org/pep-0008/ буду спрашивать про нотации, нейминги переменных
-2)решить задания \python\hw1.ipynb , если долго не можешь решить, ответы:\python\hw1-help.py
-3)провести рефакторинг кода согласно линтеру python\projects\calculator
-4)перенести функции в новую директорию под названием operations, проверить после этого работоспособность кода
+2)решить задания \python\hw1.ipynb , если долго не можешь решить, ответы:\python\hw1-help.py done
+3)провести рефакторинг кода согласно линтеру python\projects\calculator done
+4)перенести функции в новую директорию под названием operations, проверить после этого работоспособность кода done
 
 system design:
 прочитать оглавление
