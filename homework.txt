@@ -10,7 +10,7 @@ algo:
 https://t.me/RuslanSenatorov/429
 дочитать до 70 странице, мне важно понимать что из математических символов ты не понимаешь
 2)https://codeforces.com/problemset/problem/71/A?locale=en                       done
-решение:\algorithms\hw1-cf.py
+решение:\algorithms\hw1-cf.py                                                       
 3)решить всё до 5 задачи https://projecteuler.net/archives                       continue                        
 решение:\algorithms\hw1-euler.py
 
@@ -20,7 +20,7 @@ https://t.me/RuslanSenatorov/429
 решение:\discrete_math\hw1.jpg
 
 python:
-1)https://peps.python.org/pep-0008/ буду спрашивать про нотации, нейминги переменных
+1)https://peps.python.org/pep-0008/ буду спрашивать про нотации, нейминги переменных done
 2)решить задания \python\hw1.ipynb , если долго не можешь решить, ответы:\python\hw1-help.py done
 3)провести рефакторинг кода согласно линтеру python\projects\calculator done
 4)перенести функции в новую директорию под названием operations, проверить после этого работоспособность кода done
