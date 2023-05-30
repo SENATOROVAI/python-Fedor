@@ -7,7 +7,7 @@ git:
 
 algo:
 1)скачать
-https://t.me/RuslanSenatorov/429
+https://t.me/c/1733865840/429
 дочитать до 70 странице, мне важно понимать что из математических символов ты не понимаешь
 2)https://codeforces.com/problemset/problem/71/A?locale=en                       done
 решение:\algorithms\hw1-cf.py                                                       
@@ -15,7 +15,7 @@ https://t.me/RuslanSenatorov/429
 решение:\algorithms\hw1-euler.py
 
 дискретка (математика для прогеров):
-1)https://t.me/RuslanSenatorov/43
+1)https://t.me/c/1733865840/43
 2)сделать всё до 15страницы
 решение:\discrete_math\hw1.jpg
 
