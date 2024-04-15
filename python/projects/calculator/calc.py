@@ -1,9 +1,10 @@
 from operators.addition import add
-from operators.subtraction import sub
 from operators.multiplication import mult
+from operators.subtraction import sub
 from run import get_input_data
 
-while True:
+flag = True
+while flag:
     try:
         num, operator, num2 = get_input_data()
         if operator == "+":
@@ -17,3 +18,4 @@ while True:
 
     except ValueError:
         print("Ошибка, введите правильное значение")
+        flag = False
