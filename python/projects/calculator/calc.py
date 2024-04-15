@@ -3,8 +3,8 @@ from operators.multiplication import mult
 from operators.subtraction import sub
 from run import get_input_data
 
-Flag = True
-while Flag:
+FLAG = True
+while FLAG:
     try:
         num, operator, num2 = get_input_data()
         if operator == "+":
@@ -17,5 +17,5 @@ while Flag:
             print("Ошибка! Некорректный оператор.")
 
     except ValueError:
-        Flag = False
+        FLAG = False
         print("Ошибка, введите правильное значение")
