@@ -4,7 +4,7 @@ from operators.subtraction import sub
 from run import get_input_data
 
 Flag = True
-while FLAG:
+while Flag:
     try:
         num, operator, num2 = get_input_data()
         if operator == "+":
