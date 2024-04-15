@@ -18,4 +18,3 @@ while flag:
 
     except ValueError:
         print("Ошибка, введите правильное значение")
-        flag = False
