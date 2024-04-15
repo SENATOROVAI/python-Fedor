@@ -1,3 +1,3 @@
 def add(num, num2):
-    """ Add function """
+    """Add function"""
     return num + num2

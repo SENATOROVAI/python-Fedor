@@ -1,3 +1,3 @@
 def sub(num, num2):
-"""Substraction function"""
+    """Substraction function"""
     return num - num2
