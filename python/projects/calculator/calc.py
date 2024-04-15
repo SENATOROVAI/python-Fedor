@@ -17,4 +17,5 @@ while flag:
             print("Ошибка! Некорректный оператор.")
 
     except ValueError:
+        flag = False
         print("Ошибка, введите правильное значение")
